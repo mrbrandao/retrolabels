@@ -10,7 +10,8 @@ You'll find the original scanned file in the [original directory](original)
 #### Artwork
 
 All artwork was created with [inkscape](https://inkscape.org/) artwork files
-will always be available as `.svg` in the [art directory](art).
+will always be available as `.svg` in the [art directory](art). In additional
+some `.xcf` files are also available to be used with [GIMP](https://gimp.org).
 
 Some scanned versions can also be found in the [art directory](art).
 
@@ -25,6 +26,7 @@ Some scanned versions can also be found in the [art directory](art).
   The pirated with a smooth bitmap trace without modifications
 - [art/bitmap-traced-smooth-pirate-1.svg](art/bitmap-traced-smooth-pirate-1.svg)
   - The smooth copy of the pirated but with a few modifications in the cartoon
+- [fdd312/grey-floppy-layered-diskclub.xcf](fdd312/grey-floppy-layered-diskclub.xcf) - A 3½ floppy image with the diskclub images
 
 #### 5¼-inch diskettes
 
@@ -54,6 +56,15 @@ _the `svg` version of this file is [fdd312/diskclub-fdd312-smooth-pirate.svg](./
 - Both Versions were joined in a single file for easinees editing  
   The merged version can be found in the file
   [fdd312/diskclub-fdd312-all.svg](fdd312/diskclub-fdd312-all.svg)
+
+- The file
+  [fdd312/grey-floppy-layered-diskclub.xcf](fdd312/grey-floppy-layered-diskclub.xcf)
+  contains the [GIMP](https://www.gimp.org/downloads/) `.XCF` version of a 3½-inch floppy
+  using an old-label with the Pirate and Diskblub logo. This `.XCF` file is
+  layered witch allows to easly change the images in the label, using the same
+  floppy image.  
+  [<img src="fdd312/grey-floppy-layered-diskclub.png">](fdd312/grey-floppy-layered-diskclub.xcf)  
+  _the `.xcf`version of this file is [fdd312/grey-floppy-layered-diskclub.xcf](fdd312/grey-floppy-layered-diskclub.xcf)_
 
 #### Fonts
 
