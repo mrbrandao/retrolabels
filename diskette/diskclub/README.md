@@ -53,7 +53,13 @@ _the `svg` version of this file is
 [<img src="fdd312/diskclub-smooth-pirate.png">](fdd312/diskclub-fdd312-smooth-pirate.svg)
 _the `svg` version of this file is [fdd312/diskclub-fdd312-smooth-pirate.svg](./fdd312/diskclub-fdd312-smooth-pirate.svg)_
 
-- Both Versions were joined in a single file for easinees editing  
+- Label with a smooth traced pirate logo in black
+
+[<img
+src="fdd312/diskclub-label-smooth-pirate-black.svg">](fdd312/diskclub-label-smooth-pirate-black.svg)
+_the `svg` version of this file is [fdd312/diskclub-label-smooth-pirate-black.svg](./fdd312/diskclub-label-smooth-pirate-black.svg)_
+
+- All the above label versions were joined in a single file for easinees editing  
   The merged version can be found in the file
   [fdd312/diskclub-fdd312-all.svg](fdd312/diskclub-fdd312-all.svg)
 
