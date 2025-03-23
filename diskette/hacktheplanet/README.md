@@ -28,6 +28,10 @@ Some scanned versions can also be found in the [art directory](art).
 
 - Here are some of the artwork files, and what's used for:
 
+- [art/htp-pirate-purple.svg](art/htp-pirate-purple.svg) - The "Hack The
+  Planet!" purple pirate is a concept of an artwork that can be used in
+  diskette labels.
+
 - [fdd312/htp-v1.1.xcf](fdd312/htp-v1.1.xcf) - A grey diskettes with a pirate
   skull, all 1.x version were derivate from this image.
 
@@ -57,6 +61,11 @@ Some scanned versions can also be found in the [art directory](art).
 - [fdd312/htp-v8.0.webp](fdd312/htp-v8.0.webp) - Front facing skull in a black
   diskette, a nice "Hack The Planet" font is being used here, all v8.x version
   were based in this image.
+
+- [fdd312/htp-v9.0.webp](fdd312/htp-v9.0.webp) - Front facing skull in a grey
+  diskette, the skull is using a burrow, and there's a "Hack The Planet!" phrase
+  in the bottom of the label. All v9.x version were based in this image.
+  This is a mixed version using the 3.0 label with the 6.0 skull burrow.
 
 #### 5¼-inch diskettes
 
@@ -119,23 +128,24 @@ _the `xcf` version of this file is
 _the `xcf` version of this file is
 [fdd312/htp-v8.0.xcf](fdd312/htp-v8.0.xcf)_
 
-- v8.1:
+- v9.0:
 
-[<img src="fdd312/htp-v8.1.webp">](fdd312/htp-v8.1.webp)  
+[<img src="fdd312/htp-v9.0.webp">](fdd312/htp-v9.0.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v8.1.xcf](fdd312/htp-v8.1.xcf)_
+[fdd312/htp-v9.0.xcf](fdd312/htp-v9.0.xcf)_
 
-- v8.2:
+- The Purple Pirate:
 
-[<img src="fdd312/htp-v8.2.webp">](fdd312/htp-v8.2.webp)  
-_the `xcf` version of this file is
-[fdd312/htp-v8.2.xcf](fdd312/htp-v8.2.xcf)_
+[<img src="fdd312/htp-purple-pirate.webp">](fdd312/htp-purple-pirate.webp)  
+_this is a conceptual floppy label with a purple pirate instead of a skull in
+the "Hack The Planet!" label series._
 
-- v8.3:
+- The Purple Pirate Artwork:
 
-[<img src="fdd312/htp-v8.3.webp">](fdd312/htp-v8.3.webp)  
-_the `xcf` version of this file is
-[fdd312/htp-v8.3.xcf](fdd312/htp-v8.3.xcf)_
+[<img src="art/htp-pirate-purple.svg">](art/htp-pirate-purple.svg)  
+_this artwork converts to vector image the pirate purple, so it can be used in
+other labels, the `svg` version of this file is
+[art/htp-pirate-purple.svg](art/htp-pirate-purple.svg)_
 
 #### Fonts
 
