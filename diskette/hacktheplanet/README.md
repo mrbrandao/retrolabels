@@ -34,40 +34,34 @@ Some scanned versions can also be found in the [art directory](art).
   You will also find the [`xcf` GIMP](https://gimp.org) version for this artwork in
   [art/htp-purple-pirate.xcf](art/htp-purple-pirate.xcf)
 
-- [fdd312/htp-v1.1.xcf](fdd312/htp-v1.1.xcf) - A grey diskettes with a pirate
+- [art/htp-v1.0.xcf](art/htp-v1.0.xcf) - A grey diskettes with a pirate
   skull, all 1.x version were derivate from this image.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
-- [fdd312/htp-v2.1.xcf](fdd312/htp-v2.1.xcf) - A black floppy with a pirate
+- [art/htp-v2.0.xcf](art/htp-v2.0.xcf) - A black floppy with a pirate
   skull and the phrase "Hack The Planet", all 2.x versions were derivate from
   this image.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
-- [fdd312/htp-v3.0.xcf](fdd312/htp-v3.0.xcf) - A rotate disk with a pirate and
+- [art/htp-v3.0.xcf](art/htp-v3.0.xcf) - A rotate disk with a pirate and
   "Hack The Planet" phrase, all 3x versions were based on this image.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
-- [fdd312/htp-v4.0.xcf](fdd312/htp-v4.0.xcf) - A grey floppy disk, front facing,
+- [art/htp-v4.0.xcf](art/htp-v4.0.xcf) - A grey floppy disk, front facing,
   with some windows 95 words and logos, all v4.x version were based on this
   image.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
-- [fdd312/htp-v5.0.webp](fdd312/htp-v5.0.webp) - Front facing skull in a black
-  diskette, a nice "Hack The Planet" font is being used here, all v5.x version
-  were based in this image.
-
-- [fdd312/htp-v6.0.webp](fdd312/htp-v6.0.webp) - Front facing skull in a black
-  diskette, a nice "Hack The Planet" font is being used here, all v6.x version
-  were based in this image.
-
-- [fdd312/htp-v7.0.webp](fdd312/htp-v7.0.webp) - Front facing skull in a black
-  diskette, a nice "Hack The Planet" font is being used here, all v7.x version
-  were based in this image.
-
-- [fdd312/htp-v8.0.webp](fdd312/htp-v8.0.webp) - Front facing skull in a black
+- [art/htp-v8.0.xcf](art/htp-v8.0.xcf) - Front facing skull in a black
   diskette, a nice "Hack The Planet" font is being used here, all v8.x version
   were based in this image.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
-- [fdd312/htp-v9.0.webp](fdd312/htp-v9.0.webp) - Front facing skull in a grey
+- [art/htp-v9.0.xcf](art/htp-v9.0.xcf) - Front facing skull in a grey
   diskette, the skull is using a burrow, and there's a "Hack The Planet!" phrase
   in the bottom of the label. All v9.x version were based in this image.
   This is a mixed version using the 3.0 label with the 6.0 skull burrow.
+  The artwork contains a [`xcf` GIMP](https://gimp.org) version of this image.
 
 #### 5¼-inch diskettes
 
@@ -83,34 +77,26 @@ Those can be found in the [directory fdd3½](fdd312).
 - v1.0:
 
 [<img src="fdd312/htp-v1.0.webp">](fdd312/htp-v1.0.webp)
-
-- v1.1:
-
-[<img src="fdd312/htp-v1.1.webp">](fdd312/htp-v1.1.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v1.1.xcf](fdd312/htp-v1.1.xcf)_
+[art/htp-v1.0.xcf](art/htp-v1.0.xcf)_
 
 - v2.0:
 
 [<img src="fdd312/htp-v2.0.webp">](fdd312/htp-v2.0.webp)
-
-- v2.1:
-
-[<img src="fdd312/htp-v2.1.webp">](fdd312/htp-v2.1.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v2.1.xcf](fdd312/htp-v2.1.xcf)_
+[art/htp-v2.0.xcf](art/htp-v2.0.xcf)_
 
 - v3.0:
 
 [<img src="fdd312/htp-v3.0.webp">](fdd312/htp-v3.0.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v3.0.xcf](fdd312/htp-v3.0.xcf)_
+[art/htp-v3.0.xcf](art/htp-v3.0.xcf)_
 
 - v4.0:
 
 [<img src="fdd312/htp-v4.0.webp">](fdd312/htp-v4.0.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v4.0.xcf](fdd312/htp-v4.0.xcf)_
+[art/htp-v4.0.xcf](art/htp-v4.0.xcf)_
 
 - v5.0:
 
@@ -128,13 +114,13 @@ _the `xcf` version of this file is
 
 [<img src="fdd312/htp-v8.0.webp">](fdd312/htp-v8.0.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v8.0.xcf](fdd312/htp-v8.0.xcf)_
+[art/htp-v8.0.xcf](art/htp-v8.0.xcf)_
 
 - v9.0:
 
 [<img src="fdd312/htp-v9.0.webp">](fdd312/htp-v9.0.webp)  
 _the `xcf` version of this file is
-[fdd312/htp-v9.0.xcf](fdd312/htp-v9.0.xcf)_
+[art/htp-v9.0.xcf](art/htp-v9.0.xcf)_
 
 - The Purple Pirate:
 
