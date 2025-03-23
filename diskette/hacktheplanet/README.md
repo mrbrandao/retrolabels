@@ -31,6 +31,8 @@ Some scanned versions can also be found in the [art directory](art).
 - [art/htp-pirate-purple.svg](art/htp-pirate-purple.svg) - The "Hack The
   Planet!" purple pirate is a concept of an artwork that can be used in
   diskette labels.
+  You will also find the [`xcf` GIMP](https://gimp.org) version for this artwork in
+  [art/htp-purple-pirate.xcf](art/htp-purple-pirate.xcf)
 
 - [fdd312/htp-v1.1.xcf](fdd312/htp-v1.1.xcf) - A grey diskettes with a pirate
   skull, all 1.x version were derivate from this image.
@@ -145,7 +147,8 @@ the "Hack The Planet!" label series._
 [<img src="art/htp-pirate-purple.svg">](art/htp-pirate-purple.svg)  
 _this artwork converts to vector image the pirate purple, so it can be used in
 other labels, the `svg` version of this file is
-[art/htp-pirate-purple.svg](art/htp-pirate-purple.svg)_
+[art/htp-pirate-purple.svg](art/htp-pirate-purple.svg) and the `xcf` GIMP
+version can find in [art/htp-purple-pirate.xcf](art/htp-purple-pirate.xcf)_
 
 #### Fonts
 
