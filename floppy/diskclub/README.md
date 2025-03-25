@@ -85,7 +85,5 @@ open an issue, and we can work on that_
 
 #### Contributing
 
-Feel free to contribute with this project, please send versions of the artwork
-in the way you prefer.  
-The only rule is, to always send back the artwork in a vetorial format
-compatible with [inkscape](https://inkscape.org/) using `.svg` extension.
+Please follow the [Contributing](../../README.md#Contributing) guide in the main
+[README](../../README.md).

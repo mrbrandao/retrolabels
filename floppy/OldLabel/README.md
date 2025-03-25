@@ -48,8 +48,5 @@ _the `xcf` version of this file is [fdd312/old-label-floppy.xcf](fdd312/old-labe
 
 #### Contributing
 
-Feel free to contribute with this project, please send versions of the artwork
-in the way you prefer.  
-The only rule is, to always send back the artwork in a vetorial format
-compatible with [inkscape](https://inkscape.org/) using `.svg` extension, or
-[GIMP](https://gimp.org) using the `.xcf` extesion.
+Please follow the [Contributing](../../README.md#Contributing) guide in the main
+[README](../../README.md).
