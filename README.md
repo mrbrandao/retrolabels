@@ -8,15 +8,16 @@ This repository aims to be a central resource for storing and saving all labels,
 and make it accessible to restore our nostalgia of printing and recreating it back
 at any time.
 
-- [Why Does this Exists?](README.md#why)
+- [Why Does this Exists?](README.md#motivation)
 - [Contributing](README.md#contributing)
   - [Files Format](README.md#files-format)
   - [Artwork and Design Creating Tools](README.md#recommended-tools)
   - [The Retrolabels Structure](README.md#the-main-structure)
   - [Creating a new Project](README.md#creating-a-new-project)
 - [Frequently Asked Questions](README.md#faq)
+- [References and Links](README.md#references)
 
-### Why
+### Motivation
 
 Sometime ago I've bought some Verbatim 3.5" floppy, and because those were old,
 I was not able to use the original labels, since the glue was old and
@@ -178,3 +179,19 @@ Where the those directories corresponds to:
   A: Yes Please, send your original artwork, this repository is to store labels
   in general, not only brand labels, but also your manufactured original
   creations.
+
+## References
+
+While searching around I've also found some awesome references of people who did
+a similar approach. Bellow I list some outstanding work out there regarding
+labels, cover art and artwork archives:
+
+- [The Sierra
+  Chest](https://sierrachest.com/index.php?a=games&id=556&title=shadow-of-yserbius&fld=box&pid=2)
+- [eXoDOS](https://www.retro-exo.com/exodos.html) also
+  [here](https://the-eye.eu/public/Games/eXo/)
+- [Moby Games DOS List](https://www.mobygames.com/platform/dos/)
+- [sshake dos floppy
+  labels](https://github.com/ssshake/windows311-dos622-floppy-disk-labels)
+- [Nylan-1](https://github.com/NyLan-1/Floppy_Disk_Labels)
+- [Andrew-Pollard](https://github.com/Andrew-Pollard/Floppy-Disk-Labels)
