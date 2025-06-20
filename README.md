@@ -87,7 +87,11 @@ This section provides a comprehensive overview of all available images organized
 
 #### 5¼-inch Floppy Disk Labels (fdd514)
 
-*Currently no 5¼-inch floppy disk labels available in the repository.*
+| Project | Diskette Type | Preview | Image | Format | Description | Dimensions |
+|---------|---------------|---------|-------|--------|-------------|------------|
+| **rastan** | 5¼" | ![rastan-disc-AB](floppy/rastan/fdd514/rastan-disc-AB-scanned-version.jpg) | [rastan-disc-AB-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-AB-scanned-version.jpg) | JPEG | Scanned version of Disk A/B label | 1161×1600 |
+| **rastan** | 5¼" | ![rastan-disc-C](floppy/rastan/fdd514/rastan-disc-C-scanned-version.jpg) | [rastan-disc-C-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-C-scanned-version.jpg) | JPEG | Scanned version of Disk C label | 1161×1600 |
+| **rastan** | 5¼" | ![rastan-disc-D](floppy/rastan/fdd514/rastan-disc-D-scanned-version.jpg) | [rastan-disc-D-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-D-scanned-version.jpg) | JPEG | Scanned version of Disk D label | 1161×1600 |
 
 ### Original Scans and Source Files
 
