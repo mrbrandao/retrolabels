@@ -80,8 +80,8 @@ This section provides a comprehensive overview of all available images organized
 | **[hacktheplanet](floppy/hacktheplanet)** | 3½" | ![htp-v10.4](floppy/hacktheplanet/fdd312/htp-v10.4.webp) | [htp-v10.4.webp](floppy/hacktheplanet/fdd312/htp-v10.4.webp) | WebP | Version 10.4 of hacktheplanet label | 1024×1024 |
 | **[hacktheplanet](floppy/hacktheplanet)** | 3½" | ![label-only](floppy/hacktheplanet/fdd312/label-only.png) | [label-only.png](floppy/hacktheplanet/fdd312/label-only.png) | PNG | Label design without background | 1024×1024 |
 | **[hacktheplanet](floppy/hacktheplanet)** | 3½" | ![pirate-only](floppy/hacktheplanet/fdd312/pirate-only.png) | [pirate-only.png](floppy/hacktheplanet/fdd312/pirate-only.png) | PNG | Pirate design element only | 1024×1024 |
-| **[msdos](floppy/msdos)** | 3½" | ![Djhn9GP](floppy/msdos/fd312/Djhn9GP.jpeg) | [Djhn9GP.jpeg](floppy/msdos/fd312/Djhn9GP.jpeg) | JPEG | MS-DOS floppy disk label | 2169×2250 |
-| **[msdos](floppy/msdos)** | 3½" | ![q3wgLA2](floppy/msdos/fd312/q3wgLA2.jpeg) | [q3wgLA2.jpeg](floppy/msdos/fd312/q3wgLA2.jpeg) | JPEG | MS-DOS floppy disk label variant | 2202×2316 |
+| **[msdos](floppy/msdos)** | 3½" | ![MSDOS-6.22-Disk1-Setup](floppy/msdos/fd312/MSDOS-6.22-Disk1-Setup.jpeg) | [MSDOS-6.22-Disk1-Setup.jpeg](floppy/msdos/fd312/MSDOS-6.22-Disk1-Setup.jpeg) | JPEG | MS-DOS 6.22 Disk 1 Setup label | 2202×2316 |
+| **[msdos](floppy/msdos)** | 3½" | ![MSDOS-6.22-Disk2-Series](floppy/msdos/fd312/MSDOS-6.22-Disk2-Series.jpeg) | [MSDOS-6.22-Disk2-Series.jpeg](floppy/msdos/fd312/MSDOS-6.22-Disk2-Series.jpeg) | JPEG | MS-DOS 6.22 Disk 2 Series label | 2169×2250 |
 | **[OldLabel](floppy/OldLabel)** | 3½" | ![old-label-floppy](floppy/OldLabel/fdd312/old-label-floppy.webp) | [old-label-floppy.webp](floppy/OldLabel/fdd312/old-label-floppy.webp) | WebP | Classic old floppy label design | 851×868 |
 | **[OldLabel](floppy/OldLabel)** | 3½" | ![old-label](floppy/OldLabel/fdd312/old-label.png) | [old-label.png](floppy/OldLabel/fdd312/old-label.png) | PNG | Classic old floppy label raster version | 651×504 |
 
@@ -92,29 +92,6 @@ This section provides a comprehensive overview of all available images organized
 | **[rastan](floppy/rastan)** | 5¼" | ![rastan-disc-AB](floppy/rastan/fdd514/rastan-disc-AB-scanned-version.jpg) | [rastan-disc-AB-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-AB-scanned-version.jpg) | JPEG | Scanned version of Disk A/B label | 1161×1600 |
 | **[rastan](floppy/rastan)** | 5¼" | ![rastan-disc-C](floppy/rastan/fdd514/rastan-disc-C-scanned-version.jpg) | [rastan-disc-C-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-C-scanned-version.jpg) | JPEG | Scanned version of Disk C label | 1161×1600 |
 | **[rastan](floppy/rastan)** | 5¼" | ![rastan-disc-D](floppy/rastan/fdd514/rastan-disc-D-scanned-version.jpg) | [rastan-disc-D-scanned-version.jpg](floppy/rastan/fdd514/rastan-disc-D-scanned-version.jpg) | JPEG | Scanned version of Disk D label | 1161×1600 |
-
-### Original Scans and Source Files
-
-#### 3½-inch Original Scans (fdd312)
-
-| Project | Diskette Type | Preview | Image | Format | Description | Dimensions |
-|---------|---------------|---------|-------|--------|-------------|------------|
-| **[originals](floppy/originals)** | 3½" | ![grey-floppy-emptylabel](floppy/originals/fdd312/grey-floppy-emptylabel.jpg) | [grey-floppy-emptylabel.jpg](floppy/originals/fdd312/grey-floppy-emptylabel.jpg) | JPEG | Empty grey floppy disk for reference | 1024×768 |
-| **[originals](floppy/originals)** | 3½" | ![grey-floppy-pirate](floppy/originals/fdd312/grey-floppy-pirate.png) | [grey-floppy-pirate.png](floppy/originals/fdd312/grey-floppy-pirate.png) | PNG | Grey floppy with pirate label | 512×512 |
-| **[originals](floppy/originals)** | 3½" | ![grey-floppy-pirate-v1.1](floppy/originals/fdd312/grey-floppy-pirate-v1.1.jpg) | [grey-floppy-pirate-v1.1.jpg](floppy/originals/fdd312/grey-floppy-pirate-v1.1.jpg) | JPEG | Grey floppy pirate label v1.1 | 512×512 |
-| **[originals](floppy/originals)** | 3½" | ![grey-floppy-pirate-v1.2](floppy/originals/fdd312/grey-floppy-pirate-v1.2.jpg) | [grey-floppy-pirate-v1.2.jpg](floppy/originals/fdd312/grey-floppy-pirate-v1.2.jpg) | JPEG | Grey floppy pirate label v1.2 | 512×512 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.0](floppy/originals/fdd312/pirate-label-v1.0.jpg) | [pirate-label-v1.0.jpg](floppy/originals/fdd312/pirate-label-v1.0.jpg) | JPEG | Pirate label design v1.0 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.1](floppy/originals/fdd312/pirate-label-v1.1.jpg) | [pirate-label-v1.1.jpg](floppy/originals/fdd312/pirate-label-v1.1.jpg) | JPEG | Pirate label design v1.1 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.2](floppy/originals/fdd312/pirate-label-v1.2.jpg) | [pirate-label-v1.2.jpg](floppy/originals/fdd312/pirate-label-v1.2.jpg) | JPEG | Pirate label design v1.2 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.3](floppy/originals/fdd312/pirate-label-v1.3.jpg) | [pirate-label-v1.3.jpg](floppy/originals/fdd312/pirate-label-v1.3.jpg) | JPEG | Pirate label design v1.3 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.4](floppy/originals/fdd312/pirate-label-v1.4.jpg) | [pirate-label-v1.4.jpg](floppy/originals/fdd312/pirate-label-v1.4.jpg) | JPEG | Pirate label design v1.4 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.5](floppy/originals/fdd312/pirate-label-v1.5.jpg) | [pirate-label-v1.5.jpg](floppy/originals/fdd312/pirate-label-v1.5.jpg) | JPEG | Pirate label design v1.5 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-label-v1.6](floppy/originals/fdd312/pirate-label-v1.6.jpg) | [pirate-label-v1.6.jpg](floppy/originals/fdd312/pirate-label-v1.6.jpg) | JPEG | Pirate label design v1.6 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-purple-v1.0](floppy/originals/fdd312/pirate-purple-v1.0.jpg) | [pirate-purple-v1.0.jpg](floppy/originals/fdd312/pirate-purple-v1.0.jpg) | JPEG | Purple pirate label v1.0 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-purple-v1.1](floppy/originals/fdd312/pirate-purple-v1.1.jpg) | [pirate-purple-v1.1.jpg](floppy/originals/fdd312/pirate-purple-v1.1.jpg) | JPEG | Purple pirate label v1.1 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-purple-v1.7](floppy/originals/fdd312/pirate-purple-v1.7.jpg) | [pirate-purple-v1.7.jpg](floppy/originals/fdd312/pirate-purple-v1.7.jpg) | JPEG | Purple pirate label v1.7 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-purple-v1.8](floppy/originals/fdd312/pirate-purple-v1.8.jpg) | [pirate-purple-v1.8.jpg](floppy/originals/fdd312/pirate-purple-v1.8.jpg) | JPEG | Purple pirate label v1.8 | 640×640 |
-| **[originals](floppy/originals)** | 3½" | ![pirate-purple-v1.9](floppy/originals/fdd312/pirate-purple-v1.9.jpg) | [pirate-purple-v1.9.jpg](floppy/originals/fdd312/pirate-purple-v1.9.jpg) | JPEG | Purple pirate label v1.9 | 640×640 |
 
 ### Artwork Source Files
 
