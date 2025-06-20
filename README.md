@@ -127,8 +127,8 @@ This section provides a comprehensive overview of all available images organized
 | **[diskclub](floppy/diskclub)** | 3½" | ![bitmap-traced-smooth-pirate-1](floppy/diskclub/art/bitmap-traced-smooth-pirate-1.svg) | [bitmap-traced-smooth-pirate-1.svg](floppy/diskclub/art/bitmap-traced-smooth-pirate-1.svg) | SVG | Smooth traced pirate artwork variant | 888×824 |
 | **[diskclub](floppy/diskclub)** | 3½" | ![diskclub](floppy/diskclub/art/diskclub.svg) | [diskclub.svg](floppy/diskclub/art/diskclub.svg) | SVG | Main diskclub logo artwork | 904×1136 |
 | **[diskclub](floppy/diskclub)** | 3½" | ![disk-clube-pirate-extracted](floppy/diskclub/art/disk-clube-pirate-extracted.jpg) | [disk-clube-pirate-extracted.jpg](floppy/diskclub/art/disk-clube-pirate-extracted.jpg) | JPEG | Extracted pirate element | 1280×1263 |
-| **[diskclub](floppy/diskclub)** | 3½" | ![diskclub-original](floppy/diskclub/original/diskclub-original.png) | [diskclub-original.png](floppy/diskclub/original/diskclub-original.png) | PNG | Original diskclub scan | 478×226 |
-| **[diskclub](floppy/diskclub)** | 3½" | ![diskclub-original-svg](floppy/diskclub/original/diskclub-original.svg) | [diskclub-original.svg](floppy/diskclub/original/diskclub-original.svg) | SVG | Original diskclub vector version | 478×226 |
+| **[diskclub](floppy/diskclub)** | 5¼" | ![diskclub-original](floppy/diskclub/original/diskclub-original.png) | [diskclub-original.png](floppy/diskclub/original/diskclub-original.png) | PNG | Original diskclub scan | 478×226 |
+| **[diskclub](floppy/diskclub)** | 5¼" | ![diskclub-original-svg](floppy/diskclub/original/diskclub-original.svg) | [diskclub-original.svg](floppy/diskclub/original/diskclub-original.svg) | SVG | Original diskclub vector version | 478×226 |
 | **[hacktheplanet](floppy/hacktheplanet)** | 3½" | ![htp-pirate-purple](floppy/hacktheplanet/art/htp-pirate-purple.svg) | [htp-pirate-purple.svg](floppy/hacktheplanet/art/htp-pirate-purple.svg) | SVG | Purple pirate theme vector artwork | 558×432 |
 
 ### Fonts
